@@ -1,4 +1,5 @@
 require_relative '../lib/curfew_checker.rb'
+
 describe "#simple_curfew_checker" do
 
   it "should tell you if you're in trouble if it's 11" do 
